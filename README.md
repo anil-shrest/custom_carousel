@@ -1,7 +1,7 @@
 # flutter_custom_carousel
 
 Demo of the application:
-![DEMO!](assets/slider.png)
+![DEMO!](assets/slider.png | height="400")
 
 ## Getting Started
 
