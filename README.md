@@ -1,7 +1,7 @@
 # flutter_custom_carousel
 
 Demo of the application:
-| <img src="assets/slider.png" width="150"/> | <img src="assets/slider1.png" width="150"/> |
+|<img src="assets/slider.png" width="150"/> |<img src="assets/slider1.png" width="150"/> |<img src="assets/slider2.png" width="150"/> |
 
 ## Getting Started
 
