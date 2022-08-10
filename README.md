@@ -1,7 +1,7 @@
 # flutter_custom_carousel
 
 Demo of the application:
-<img src=".assets/slider.png" alt="InfiniteGraph Logo" width="320">
+<img src="assets/slider.png" width="128"/>
 
 ## Getting Started
 
