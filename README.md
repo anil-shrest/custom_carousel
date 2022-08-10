@@ -1,6 +1,7 @@
-# custom_carousel
+# flutter_custom_carousel
 
-A new Flutter project.
+Demo of the application:
+![DEMO!](assets/slider.png)
 
 ## Getting Started
 
